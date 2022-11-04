@@ -1,0 +1,17 @@
+{
+    "name": "jonathan/blog",
+    "autoload": {
+        "psr-4": {
+            "Models\\": "models/",
+            "Database\\": "Database/",
+            "Helpers\\": "Helpers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manguithre"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
